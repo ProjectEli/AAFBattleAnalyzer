@@ -5,7 +5,7 @@
 페이즈 통합 분석 | 수집품 분석
 ![Figure_31](https://user-images.githubusercontent.com/16854214/152921195-05b6360c-62d2-4126-b84c-2096f9b058cb.png) | ![Figure_40](https://user-images.githubusercontent.com/16854214/152921248-dc52c4e2-d49e-4d4d-a29d-597b8e75ecce.png)
 몹별 승률 분석 | 몹별 스킬 발동률 분석
-![Figure_12](https://user-images.githubusercontent.com/16854214/152931227-1e8a9d60-e8ed-4997-89ca-753b5b2a70f2.png) | ![image](https://user-images.githubusercontent.com/16854214/152927989-865e5975-627a-47e4-9a21-a02c94922fa0.png)
+![Figure_11](https://user-images.githubusercontent.com/16854214/152931949-c41acc2b-91f5-4364-9886-15d5e96dd7b1.png) | ![image](https://user-images.githubusercontent.com/16854214/152927989-865e5975-627a-47e4-9a21-a02c94922fa0.png)
 
 몹별 전투내역 상세분석 |
 :-------------------------:|
