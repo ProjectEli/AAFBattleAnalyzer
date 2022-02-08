@@ -1,15 +1,16 @@
 # AAF 전투 분석기
-승패 분석 | 몹별 분석
+승패 통합 분석 | 렙차 페이즈 상관성 분석
 :-------------------------:|:-------------------------:
 ![Figure_1](https://user-images.githubusercontent.com/16854214/152920777-2c66b778-fc89-45b5-a223-cb16cc04a90e.png) | ![Figure_12](https://user-images.githubusercontent.com/16854214/152920848-2cf3410a-8a2e-4feb-860a-5a142bc4ea50.png)
-페이즈별 분석 | 수집품 분석
+페이즈 통합 분석 | 수집품 분석
 ![Figure_31](https://user-images.githubusercontent.com/16854214/152921195-05b6360c-62d2-4126-b84c-2096f9b058cb.png) | ![Figure_40](https://user-images.githubusercontent.com/16854214/152921248-dc52c4e2-d49e-4d4d-a29d-597b8e75ecce.png)
+몹별 승률 분석 | 몹별 스킬 발동률 분석
+![Figure_12](https://user-images.githubusercontent.com/16854214/152931227-1e8a9d60-e8ed-4997-89ca-753b5b2a70f2.png) | ![image](https://user-images.githubusercontent.com/16854214/152927989-865e5975-627a-47e4-9a21-a02c94922fa0.png)
 
-스킬 발동률 분석 | 
+몹별 전투내역 상세분석 |
 :-------------------------:|
-![image](https://user-images.githubusercontent.com/16854214/152927989-865e5975-627a-47e4-9a21-a02c94922fa0.png) | 
-몹별 상세분석 |
 ![image](https://user-images.githubusercontent.com/16854214/152928203-f42bacad-9b34-40d5-97d4-3c999d028265.png) |
+
 # 간단 소개
 AAF 전투 페이지에서 저장한 html 전투 로그 파일을 모아서 분석하는 python 모듈 및 실행파일입니다. 대충 막 만들었으니 로직 위주로 참고하세요.
 
