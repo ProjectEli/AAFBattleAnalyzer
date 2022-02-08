@@ -54,7 +54,7 @@ Html parsing: pyquery ( https://github.com/gawel/pyquery )
 
 DB: python sqlite 3 built-in module ( https://docs.python.org/ko/3/library/sqlite3.html )
 
-DBMS: DBeaver ( https://dbeaver.io/ )
+DBMS(optional): DBeaver ( https://dbeaver.io/ )
 
 Graph plotting: matplotlib ( https://matplotlib.org/ )
 
