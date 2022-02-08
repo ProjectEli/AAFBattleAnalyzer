@@ -46,11 +46,11 @@ AAFBattleAnalyzer
 ## 개발환경 및 사용 라이브러리
 OS: Windows 11
 
-Language: Python ( https://www.python.org/ )
+Language: Python 3.9.7 ( https://www.python.org/ )
 
 IDE: Visual studio code ( https://code.visualstudio.com/ )
 
-Virtual env: Miniconda ( https://conda.io/miniconda.html )
+Virtual env(optional): Miniconda ( https://conda.io/miniconda.html )
 
 Log collection: Microsoft power automate desktop ( https://powerautomate.microsoft.com/ko-kr/desktop/ )
 
