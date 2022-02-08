@@ -17,6 +17,10 @@ AAF 전투 페이지에서 저장한 html 전투 로그 파일을 모아서 분�
 ## 사용 방법
 추후 작성
 
+### 파일 저장 로직
+파일 저장은 MS에서 만든 power automate를 사용했습니다. 로직은 아래와 같습니다. 웹 브라우저 확장과 연동해 사용하기 때문에 PC에서만 가능합니다. 저는 크롬 브라우저에서 사용중입니다.
+![image](https://user-images.githubusercontent.com/16854214/152932268-3b0ec567-2c76-41e4-815f-dbe67b80e007.png)
+
 ## 파일 구조
 ```
 AAFBattleAnalyzer
